@@ -16,4 +16,18 @@ Se inició el curso de SQL de Soy Dalto:
         integrar con otras aplicaciones, limpieza de datos, normalización de datos...
     3. Fundamentos de BBDD
         3.1. Diagrama de entidad relación (ER) (CHEN)
-    4. Se quedó en el minuto 0:11.50
+            3.1.1. Entidad: es un objeto, puede hacer referencia a cualquier cosa u objeto de la vida real
+            normalmente pueden ser representadas con tablas y la nomenclaruta que se usa para representar 
+            las entidades se llama: "Notación de CHEN"
+            3.1.2. Las entidades en la notación de CHEN, se representan con el nombre dentro de un cuadrado
+            3.1.3. Los atributos de las entidades se representan con óvalos, en este sentido son las características
+            o campos de la entidad o tabla. Casa - Tamaño, Ubicación, Fecha de construcción, Propietario, etc...
+                3.1.3.1. Los atributos pueden ser: simples, compuestos, multivalor y derivados
+            3.1.4. Las claves: son identificadores para indicar que un determinado atributo debe ser único
+        3.2. Ejercicios
+            3.2.1. Pensar en una entidad que tenga 5 atributos, uno debe ser multivalor y el uno key
+            3.2.2. Ordenar una sucesión de palabras en la notación correcta de CHEN
+    4. Instalación del SGDB
+        4.1. SQLite:                https://www.sqlite.org/
+        4.2. DB Browser for SQLite: https://sqlitebrowser.org/
+    5. Se quedó en el minuto 0:35.05
