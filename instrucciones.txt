@@ -1,0 +1,5 @@
+Se inició el curso de SQL de Soy Dalto:
+    1. https://www.youtube.com/watch?v=DFg1V-rO6Pg&list=PLE8uP447fYpiWxfqCnoHZx03zCsUAzDUW&index=42
+    2. Introducción SQL
+        2.1. Definición: structured query language ó lenguaje estructurado de consultas
+    3. Se quedó en el minuto 0:04.24
