@@ -1,5 +1,19 @@
 Se inició el curso de SQL de Soy Dalto:
     1. https://www.youtube.com/watch?v=DFg1V-rO6Pg&list=PLE8uP447fYpiWxfqCnoHZx03zCsUAzDUW&index=42
     2. Introducción SQL
-        2.1. Definición: structured query language ó lenguaje estructurado de consultas
-    3. Se quedó en el minuto 0:04.24
+        2.1. Definición: structured query language ó lenguaje estructurado de consultas, es un lenguaje
+        de programación que permite trabajar con bases de datos relacionales. Es un estándar, así que 
+        todos los SGBD trabajan con SQL
+        2.2. BBDD archivos vs BBDD relacionales
+            2.2.1. Anteriormente se tomaba un texto plano y se separaban los valores que se querían guardar
+            con distintas técnicas de separación: [{ "clave" : "valor" }], era bastante sencillo almacenar,
+            pero complicado obtener esos datos, usarlos de forma ordenada, sencilla y sin inconvenientes
+            2.2.2. La solución al problema se derivó en crear una BBDD basada en álgebra relacional, entonces
+            SQL = Álgebra relacional (conjuntos y grafos)
+        2.3. Su uso es muy variado, sirve para desarrollar y administrar sistemas de gestión, para IA, 
+        permite desarrollar el CRUD, permite agregar restricciones y reglas de integridad, generar informes,
+        hacer análisis de datos, administrar usuarios y permisos, realizar transacciones, backups, se puede
+        integrar con otras aplicaciones, limpieza de datos, normalización de datos...
+    3. Fundamentos de BBDD
+        3.1. Diagrama de entidad relación (ER) (CHEN)
+    4. Se quedó en el minuto 0:11.50
